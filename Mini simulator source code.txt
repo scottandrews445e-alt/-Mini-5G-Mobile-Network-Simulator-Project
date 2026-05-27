@@ -134,7 +134,7 @@ class Drone(Device):
     
     def _perform_send(self):
         print("    Drone: Streaming video data")
-
+ 
 # Global list of base stations (in a full app, this would be managed centrally)
 base_stations = []
 # ---------------- DEMO / MAIN PROGRAM ----------------
